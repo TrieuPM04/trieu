@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    /* 1 em = 10px */
+}
+
+body{
+    font-family: 'Poppins', sans-serif; 
+    font-family: 'Roboto', sans-serif;
+    /* lúc này 1.6em tương đương với 16px là cỡ chữ default */
+    font-size: 1.6em; 
+
+}
+
+
+.box3{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+}
+
+.button{
+    text-decoration: none;
+    padding: 2rem 5rem;
+    text-align: center;
+    color: wheat;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
